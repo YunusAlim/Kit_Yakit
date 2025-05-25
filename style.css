@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #000;
+    overflow: hidden;
+}
+
+.game-container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    position: relative;
+}
+
+.fire-ivy {
+    height: 100vh;
+    width: auto;
+    position: fixed;
+    top: 0;
+}
+
+.fire-ivy.left {
+    left: -205px;
+    transform: scaleX(-1);
+}
+
+.fire-ivy.right {
+    right: -205px;
+}
+
+#gameCanvas {
+    position: relative;
+    z-index: 1;
+    display: block;
+    margin: 0 auto;
+    background-color: #000;
+}
