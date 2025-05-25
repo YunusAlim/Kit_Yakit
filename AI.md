@@ -1,4 +1,6 @@
 ASSETS AI PROMPTLARI
+
+
 Oyundaki arkaplan hariç tüm asset dosyları ai araçları sayesinde yapılmıştır. işte yazdığım promptlar ve aldığım cevaplar
 
 Sora (Openai)     Link: https://sora.chatgpt.com/
