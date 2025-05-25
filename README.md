@@ -3,6 +3,9 @@ Link: https://stivarts.itch.io/fuel-runs-out
 
 
   Oyun uzayda Kıt Yakıtımız varken bir meteor üstünde başlıyor (örnek-1). Oyunda amacımız ekrandan çıkmadan tüm evreni keşfetmek ve bunu yaparken yakıtımızın bitmemesini sağlamak. Oyunun asıl zor kısmı kontrolün yakıt azlığında daha da zorlaşması bunun sebebi yakıt azaldıkça hızımız artıyor ve kontrol gerçekten çok zorlaşıyor (örnek-2). Örnek olarak aldığım oyun da bu mekanik üzerine kurulu (örnek-3) fakat o pyun daha çok seviye atlayarak bulmaca çözmek üzerineydi ben ise oyunu sınırlandırmayı sevmediğim için sonu olmayan bir reflex oyununa dönüştürdüm özellikle kendi hayatımda da rekabetçi oyunları daha çok seven biriyim bu yüzden bu tarz bir oyun hem beni hem de arkadaşlarımı daha çok tatmin etti. Oyunda şuanda bir highscore mevcut (örnek-4) bu highscore verilerini bir leaderboard kullanmak için oluşturdum aslında fakat maalesef bunu sınırlı ortamlarda gerçekleştiremedim.
+
+  Oyunun tanıtımı ve örnek oynanış videosu : https://www.youtube.com/watch?v=-w_sHGjkgwA
+  
   
   Örnek-1:
   ![image](https://github.com/user-attachments/assets/963d921e-d7ae-42be-a6fd-9ad2bcc4c504)
