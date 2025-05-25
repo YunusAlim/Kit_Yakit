@@ -1,9 +1,3 @@
-KOD AI PROMTLARI
-
-
-
-
-
 ASSETS AI PROMPTLARI
 Oyundaki arkaplan hariç tüm asset dosyları ai araçları sayesinde yapılmıştır. işte yazdığım promptlar ve aldığım cevaplar
 
@@ -21,3 +15,6 @@ pixselart yukarıdan aşağıya alevden sarmaşık çiz: fireivy.ong
 Udio     Link: https://www.udio.com/
 
 I made pixelart absurd space game make a silly music chill (no lyrics): mainmusic.mp3
+
+
+
