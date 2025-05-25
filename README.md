@@ -31,8 +31,14 @@ Projeye özellikle eklemek istediklerim:
 -görünüşleri elde etmek için toplanılan puan ile alınan kasalar.
 
   Proje, Yunus Alim Avşar tarafından (yani ben) tek kişi olarak yapılmıştır. Assetlerin neredeyse hepsi AI tool yardımı ile oluşturulmuş, kodların yazmakta zorlandığım, aldığım hatayı çözemediğim zamanlarda yine kod yazımı için AI toolardan yardım alınmıştır. Kodda benim yazmadığım veyahut AI ' dan yardım alınarak oluşturulmuş tüm bloklar //AI--------//AI  bloğu içine alınarak net bir şekilde gösterilmiştir. Bunun dışında daha fazla bilgi için AI.md dosyasını inceleyebilirsiniz.
-  Örnek: ![image](https://github.com/user-attachments/assets/664c15e3-ed10-4549-8f1d-fb1775977797)
+  
+  Örnek: 
+  ![image](https://github.com/user-attachments/assets/664c15e3-ed10-4549-8f1d-fb1775977797)
+  
 
 
   Oyunda hazır olarak kullandığım tek asset arkaplanlardır. Arkaplanları https://deep-fold.itch.io/space-background-generator aracılığı ile oluşturdum ve projemde bu arkaplanları kullandım.
-  Örnek: ![04](https://github.com/user-attachments/assets/8de252fc-a5e9-43da-ae59-4bfd4f66e501)
+ 
+  Örnek:
+  ![04](https://github.com/user-attachments/assets/8de252fc-a5e9-43da-ae59-4bfd4f66e501)
+  
